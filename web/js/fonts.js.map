@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./resources/js/fonts.js"],"names":["WebFont","load","google","families"],"mappings":"6JAGAA,QAAQC,KAAK,CACXC,OAAQ,CACNC,SAAU,CAAC,2B","file":"/js/fonts.js","sourcesContent":["/**\n * Google Fonts\n */\nWebFont.load({\n  google: {\n    families: [\"Roboto:300,400,700\"]\n  }\n});\n"],"sourceRoot":""}
